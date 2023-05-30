@@ -2,3 +2,11 @@ HTML
 CSS
 JavaScript 
 GSAP for animations
+
+To do:
+1. Implement GSAP 
+2. Get the background moving on loop
+3. Get the bus hop on loop
+
+// Probably this will make the bus feel like it is moving.
+
